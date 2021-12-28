@@ -1,5 +1,5 @@
-var animalContainer = document.getElementById("animal-info");
-var btn = document.getElementById("btn");
+var animalContainer = document.getElementById("ajax-content");
+var btn = document.getElementById("btn_send");
 var pageCounter = 1;
 
 btn.addEventListener("click", function() {
