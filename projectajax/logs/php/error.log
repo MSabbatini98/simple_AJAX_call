@@ -1,0 +1,98 @@
+[29-Dec-2021 16:48:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /Users/matteo/Local Sites/projectajax/app/public/wp-content/themes/twentytwenty-child/functions.php:15
+Stack trace:
+#0 /Users/matteo/Local Sites/projectajax/app/public/wp-settings.php(546): include()
+#1 /Users/matteo/Local Sites/projectajax/app/public/wp-config.php(77): require_once('/Users/matteo/L...')
+#2 /Users/matteo/Local Sites/projectajax/app/public/wp-load.php(50): require_once('/Users/matteo/L...')
+#3 /Users/matteo/Local Sites/projectajax/app/public/wp-blog-header.php(13): require_once('/Users/matteo/L...')
+#4 /Users/matteo/Local Sites/projectajax/app/public/index.php(17): require('/Users/matteo/L...')
+#5 {main}
+  thrown in /Users/matteo/Local Sites/projectajax/app/public/wp-content/themes/twentytwenty-child/functions.php on line 15
+[29-Dec-2021 16:48:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /Users/matteo/Local Sites/projectajax/app/public/wp-content/themes/twentytwenty-child/functions.php:15
+Stack trace:
+#0 /Users/matteo/Local Sites/projectajax/app/public/wp-settings.php(546): include()
+#1 /Users/matteo/Local Sites/projectajax/app/public/wp-config.php(77): require_once('/Users/matteo/L...')
+#2 /Users/matteo/Local Sites/projectajax/app/public/wp-load.php(50): require_once('/Users/matteo/L...')
+#3 /Users/matteo/Local Sites/projectajax/app/public/wp-blog-header.php(13): require_once('/Users/matteo/L...')
+#4 /Users/matteo/Local Sites/projectajax/app/public/index.php(17): require('/Users/matteo/L...')
+#5 {main}
+  thrown in /Users/matteo/Local Sites/projectajax/app/public/wp-content/themes/twentytwenty-child/functions.php on line 15
+[29-Dec-2021 16:49:07 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in /Users/matteo/Local Sites/projectajax/app/public/wp-content/themes/twentytwenty-child/functions.php on line 15
+[29-Dec-2021 16:49:07 UTC] PHP Stack trace:
+[29-Dec-2021 16:49:07 UTC] PHP   1. {main}() /Users/matteo/Local Sites/projectajax/app/public/index.php:0
+[29-Dec-2021 16:49:07 UTC] PHP   2. require() /Users/matteo/Local Sites/projectajax/app/public/index.php:17
+[29-Dec-2021 16:49:07 UTC] PHP   3. require_once() /Users/matteo/Local Sites/projectajax/app/public/wp-blog-header.php:13
+[29-Dec-2021 16:49:07 UTC] PHP   4. require_once() /Users/matteo/Local Sites/projectajax/app/public/wp-load.php:50
+[29-Dec-2021 16:49:07 UTC] PHP   5. require_once() /Users/matteo/Local Sites/projectajax/app/public/wp-config.php:77
+[29-Dec-2021 16:49:07 UTC] PHP   6. include() /Users/matteo/Local Sites/projectajax/app/public/wp-settings.php:546
+[29-Dec-2021 16:49:07 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in /Users/matteo/Local Sites/projectajax/app/public/wp-content/themes/twentytwenty-child/functions.php on line 15
+[29-Dec-2021 16:49:07 UTC] PHP Stack trace:
+[29-Dec-2021 16:49:07 UTC] PHP   1. {main}() /Users/matteo/Local Sites/projectajax/app/public/index.php:0
+[29-Dec-2021 16:49:07 UTC] PHP   2. require() /Users/matteo/Local Sites/projectajax/app/public/index.php:17
+[29-Dec-2021 16:49:07 UTC] PHP   3. require_once() /Users/matteo/Local Sites/projectajax/app/public/wp-blog-header.php:13
+[29-Dec-2021 16:49:07 UTC] PHP   4. require_once() /Users/matteo/Local Sites/projectajax/app/public/wp-load.php:50
+[29-Dec-2021 16:49:07 UTC] PHP   5. require_once() /Users/matteo/Local Sites/projectajax/app/public/wp-config.php:77
+[29-Dec-2021 16:49:07 UTC] PHP   6. include() /Users/matteo/Local Sites/projectajax/app/public/wp-settings.php:546
+[29-Dec-2021 16:49:07 UTC] PHP   7. log() /Users/matteo/Local Sites/projectajax/app/public/wp-content/themes/twentytwenty-child/functions.php:15
+[29-Dec-2021 16:49:08 UTC] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in /Users/matteo/Local Sites/projectajax/app/public/wp-content/themes/twentytwenty-child/functions.php on line 15
+[29-Dec-2021 16:49:08 UTC] PHP Stack trace:
+[29-Dec-2021 16:49:08 UTC] PHP   1. {main}() /Users/matteo/Local Sites/projectajax/app/public/index.php:0
+[29-Dec-2021 16:49:08 UTC] PHP   2. require() /Users/matteo/Local Sites/projectajax/app/public/index.php:17
+[29-Dec-2021 16:49:08 UTC] PHP   3. require_once() /Users/matteo/Local Sites/projectajax/app/public/wp-blog-header.php:13
+[29-Dec-2021 16:49:08 UTC] PHP   4. require_once() /Users/matteo/Local Sites/projectajax/app/public/wp-load.php:50
+[29-Dec-2021 16:49:08 UTC] PHP   5. require_once() /Users/matteo/Local Sites/projectajax/app/public/wp-config.php:77
+[29-Dec-2021 16:49:08 UTC] PHP   6. include() /Users/matteo/Local Sites/projectajax/app/public/wp-settings.php:546
+[29-Dec-2021 16:49:08 UTC] PHP Warning:  log() expects parameter 1 to be float, string given in /Users/matteo/Local Sites/projectajax/app/public/wp-content/themes/twentytwenty-child/functions.php on line 15
+[29-Dec-2021 16:49:08 UTC] PHP Stack trace:
+[29-Dec-2021 16:49:08 UTC] PHP   1. {main}() /Users/matteo/Local Sites/projectajax/app/public/index.php:0
+[29-Dec-2021 16:49:08 UTC] PHP   2. require() /Users/matteo/Local Sites/projectajax/app/public/index.php:17
+[29-Dec-2021 16:49:08 UTC] PHP   3. require_once() /Users/matteo/Local Sites/projectajax/app/public/wp-blog-header.php:13
+[29-Dec-2021 16:49:08 UTC] PHP   4. require_once() /Users/matteo/Local Sites/projectajax/app/public/wp-load.php:50
+[29-Dec-2021 16:49:08 UTC] PHP   5. require_once() /Users/matteo/Local Sites/projectajax/app/public/wp-config.php:77
+[29-Dec-2021 16:49:08 UTC] PHP   6. include() /Users/matteo/Local Sites/projectajax/app/public/wp-settings.php:546
+[29-Dec-2021 16:49:08 UTC] PHP   7. log() /Users/matteo/Local Sites/projectajax/app/public/wp-content/themes/twentytwenty-child/functions.php:15
+[29-Dec-2021 16:49:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/matteo/Local Sites/projectajax/app/public/wp-content/themes/twentytwenty-child/functions.php:15) in /Users/matteo/Local Sites/projectajax/app/public/wp-includes/pluggable.php on line 1340
+[29-Dec-2021 16:49:08 UTC] PHP Stack trace:
+[29-Dec-2021 16:49:08 UTC] PHP   1. {main}() /Users/matteo/Local Sites/projectajax/app/public/index.php:0
+[29-Dec-2021 16:49:08 UTC] PHP   2. require() /Users/matteo/Local Sites/projectajax/app/public/index.php:17
+[29-Dec-2021 16:49:08 UTC] PHP   3. require_once() /Users/matteo/Local Sites/projectajax/app/public/wp-blog-header.php:19
+[29-Dec-2021 16:49:08 UTC] PHP   4. do_action() /Users/matteo/Local Sites/projectajax/app/public/wp-includes/template-loader.php:45
+[29-Dec-2021 16:49:08 UTC] PHP   5. WP_Hook->do_action() /Users/matteo/Local Sites/projectajax/app/public/wp-includes/plugin.php:470
+[29-Dec-2021 16:49:08 UTC] PHP   6. WP_Hook->apply_filters() /Users/matteo/Local Sites/projectajax/app/public/wp-includes/class-wp-hook.php:327
+[29-Dec-2021 16:49:08 UTC] PHP   7. do_favicon() /Users/matteo/Local Sites/projectajax/app/public/wp-includes/class-wp-hook.php:303
+[29-Dec-2021 16:49:08 UTC] PHP   8. wp_redirect() /Users/matteo/Local Sites/projectajax/app/public/wp-includes/functions.php:1694
+[29-Dec-2021 16:49:08 UTC] PHP   9. header() /Users/matteo/Local Sites/projectajax/app/public/wp-includes/pluggable.php:1340
+[29-Dec-2021 16:49:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/matteo/Local Sites/projectajax/app/public/wp-content/themes/twentytwenty-child/functions.php:15) in /Users/matteo/Local Sites/projectajax/app/public/wp-includes/pluggable.php on line 1343
+[29-Dec-2021 16:49:08 UTC] PHP Stack trace:
+[29-Dec-2021 16:49:08 UTC] PHP   1. {main}() /Users/matteo/Local Sites/projectajax/app/public/index.php:0
+[29-Dec-2021 16:49:08 UTC] PHP   2. require() /Users/matteo/Local Sites/projectajax/app/public/index.php:17
+[29-Dec-2021 16:49:08 UTC] PHP   3. require_once() /Users/matteo/Local Sites/projectajax/app/public/wp-blog-header.php:19
+[29-Dec-2021 16:49:08 UTC] PHP   4. do_action() /Users/matteo/Local Sites/projectajax/app/public/wp-includes/template-loader.php:45
+[29-Dec-2021 16:49:08 UTC] PHP   5. WP_Hook->do_action() /Users/matteo/Local Sites/projectajax/app/public/wp-includes/plugin.php:470
+[29-Dec-2021 16:49:08 UTC] PHP   6. WP_Hook->apply_filters() /Users/matteo/Local Sites/projectajax/app/public/wp-includes/class-wp-hook.php:327
+[29-Dec-2021 16:49:08 UTC] PHP   7. do_favicon() /Users/matteo/Local Sites/projectajax/app/public/wp-includes/class-wp-hook.php:303
+[29-Dec-2021 16:49:08 UTC] PHP   8. wp_redirect() /Users/matteo/Local Sites/projectajax/app/public/wp-includes/functions.php:1694
+[29-Dec-2021 16:49:08 UTC] PHP   9. header() /Users/matteo/Local Sites/projectajax/app/public/wp-includes/pluggable.php:1343
+[30-Dec-2021 09:19:48 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/matteo/Local Sites/projectajax/app/public/wp-includes/update.php on line 175
+[30-Dec-2021 09:19:48 UTC] PHP Stack trace:
+[30-Dec-2021 09:19:48 UTC] PHP   1. {main}() /Users/matteo/Local Sites/projectajax/app/public/wp-cron.php:0
+[30-Dec-2021 09:19:48 UTC] PHP   2. do_action_ref_array() /Users/matteo/Local Sites/projectajax/app/public/wp-cron.php:138
+[30-Dec-2021 09:19:48 UTC] PHP   3. WP_Hook->do_action() /Users/matteo/Local Sites/projectajax/app/public/wp-includes/plugin.php:518
+[30-Dec-2021 09:19:48 UTC] PHP   4. WP_Hook->apply_filters() /Users/matteo/Local Sites/projectajax/app/public/wp-includes/class-wp-hook.php:327
+[30-Dec-2021 09:19:48 UTC] PHP   5. wp_version_check() /Users/matteo/Local Sites/projectajax/app/public/wp-includes/class-wp-hook.php:303
+[30-Dec-2021 09:19:48 UTC] PHP   6. trigger_error() /Users/matteo/Local Sites/projectajax/app/public/wp-includes/update.php:175
+[30-Dec-2021 09:20:09 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/matteo/Local Sites/projectajax/app/public/wp-includes/update.php on line 413
+[30-Dec-2021 09:20:09 UTC] PHP Stack trace:
+[30-Dec-2021 09:20:09 UTC] PHP   1. {main}() /Users/matteo/Local Sites/projectajax/app/public/wp-cron.php:0
+[30-Dec-2021 09:20:09 UTC] PHP   2. do_action_ref_array() /Users/matteo/Local Sites/projectajax/app/public/wp-cron.php:138
+[30-Dec-2021 09:20:09 UTC] PHP   3. WP_Hook->do_action() /Users/matteo/Local Sites/projectajax/app/public/wp-includes/plugin.php:518
+[30-Dec-2021 09:20:09 UTC] PHP   4. WP_Hook->apply_filters() /Users/matteo/Local Sites/projectajax/app/public/wp-includes/class-wp-hook.php:327
+[30-Dec-2021 09:20:09 UTC] PHP   5. wp_update_plugins() /Users/matteo/Local Sites/projectajax/app/public/wp-includes/class-wp-hook.php:303
+[30-Dec-2021 09:20:09 UTC] PHP   6. trigger_error() /Users/matteo/Local Sites/projectajax/app/public/wp-includes/update.php:413
+[30-Dec-2021 09:20:30 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/matteo/Local Sites/projectajax/app/public/wp-includes/update.php on line 693
+[30-Dec-2021 09:20:30 UTC] PHP Stack trace:
+[30-Dec-2021 09:20:30 UTC] PHP   1. {main}() /Users/matteo/Local Sites/projectajax/app/public/wp-cron.php:0
+[30-Dec-2021 09:20:30 UTC] PHP   2. do_action_ref_array() /Users/matteo/Local Sites/projectajax/app/public/wp-cron.php:138
+[30-Dec-2021 09:20:30 UTC] PHP   3. WP_Hook->do_action() /Users/matteo/Local Sites/projectajax/app/public/wp-includes/plugin.php:518
+[30-Dec-2021 09:20:30 UTC] PHP   4. WP_Hook->apply_filters() /Users/matteo/Local Sites/projectajax/app/public/wp-includes/class-wp-hook.php:327
+[30-Dec-2021 09:20:30 UTC] PHP   5. wp_update_themes() /Users/matteo/Local Sites/projectajax/app/public/wp-includes/class-wp-hook.php:303
+[30-Dec-2021 09:20:30 UTC] PHP   6. trigger_error() /Users/matteo/Local Sites/projectajax/app/public/wp-includes/update.php:693

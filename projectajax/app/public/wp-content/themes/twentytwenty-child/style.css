@@ -1,0 +1,38 @@
+/*
+ Theme Name:   TwentyTwenty Child
+ Description:  TwentyTwenty Child Theme
+ Author:       Matteo Sabbatini
+ Template:     twentytwenty
+ Version:      1.0.0
+ Text Domain:  twentytwentychild
+*/
+
+
+
+body {
+    background-color: silver;
+    color: blue !important;
+    font-weight: bold!important;
+    font-size: 30px !important;
+}
+
+.col-1-6 {
+    background-color: grey;
+    cursor: pointer;
+    width: 16.66%;
+    height: 36px;
+  }
+
+  .red {
+    background-color: red !important;
+  }
+  .yellow {
+    background-color: yellow !important;
+  }
+  .blue {
+    background-color: blue !important;
+  }
+
+  button {
+      background-color: darkgreen !important;
+  }

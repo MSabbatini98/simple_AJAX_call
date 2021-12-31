@@ -2,6 +2,11 @@ var animalContainer = document.getElementById("ajax-content");
 var btn = document.getElementById("btn_send");
 var pageCounter = 1;
 
+var btn_try = document.getElementById("btn_try");
+btn_try.addEventListener("click", function() {
+    alert("HELPPPPPPPPPP !");
+})
+
 btn.addEventListener("click", function() {
   
     var myRequest = new XMLHttpRequest();
@@ -32,7 +37,7 @@ btn.addEventListener("click", function() {
         btn.classList.add("hide-me");
     }
 });
-
+// New Animals
 
 // crea e aggiunge html alla pagina
 function renderHTML(data) {
@@ -63,6 +68,15 @@ function renderHTML(data) {
     animalContainer.insertAdjacentHTML('beforeend', htmlString);
 }
 
+// crea e aggiunge html alla pagina
+function renderHTML(allData) {
+    var allPostName = "";
+
+    for (i = 0; i < allData.length; i++) {
+        allPostName += "<p>" + allData[i].name + "</p>";
+    }
+    allPostContainer.insertAdjacentHTML('beforebegin', allPostName);
+}
 
 // var thePets = [
 //     {
